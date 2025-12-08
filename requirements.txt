@@ -1,4 +1,6 @@
-google-adk
-ipython
-jupyter-server
-gradio
+gradio==6.0.2
+uvicorn>=0.14.0
+spaces
+google-adk==0.1.0
+ipython==8.12.0
+jupyter-server==2.10.0
